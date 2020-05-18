@@ -1,4 +1,4 @@
 {
-  "defaultDir": "",
-  "filter": ""
+  "defaultDir": "/Users/1004119/dev/nodejs-example/node-express-dashboard/log-generator",
+  "filter": "POST"
 }
